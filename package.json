@@ -1,0 +1,23 @@
+{
+  "name": "moz-interview-abdelrazaq",
+  "version": "1.0.0",
+  "description": "Screening interview for Mid level Mozilla position",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adull/moz-interview.git"
+  },
+  "author": "adlai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adull/moz-interview/issues"
+  },
+  "homepage": "https://github.com/adull/moz-interview#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}

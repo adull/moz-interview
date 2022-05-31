@@ -33,7 +33,7 @@ module.exports = function() {
 
   const solution = ({duplicate_spam_scores: duplicateSpamScores, duplicate_domain_authorities: duplicateDomainAuth})
 
-  // console.log(solution)
+  console.log(solution)
 
   return solution
 }
